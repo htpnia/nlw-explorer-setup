@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
- - [Visite o projeto](https://htpnia.github.io/nwl-explorer-setup)
+ - [Visite o projeto](https://htpnia.github.io/nlw-explorer-setup/)
 
 ## 🔖 Layout
 
