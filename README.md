@@ -33,13 +33,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
-
+ - [Visite o projeto](https://htpnia.github.io/nwl-explorer-setup)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Hs9xZ2VigF8iBpKTLjM6lY/Habits-(e)-(Community)?node-id=75%3A128&t=CH3Y2k5O0AwwjYvG-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
